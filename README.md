@@ -20,4 +20,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 
-2020 dvt32.net
+2020 dvt32.net. All rights reserved.
